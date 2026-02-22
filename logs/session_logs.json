@@ -1,0 +1,143 @@
+[
+    {
+        "role": "user",
+        "content": "This is a test message to verify the JSON schema.",
+        "timestamp": "2026-02-22 09:52:41"
+    },
+    {
+        "role": "user",
+        "content": "I am feeling very lonely. There is no one for me.",
+        "timestamp": "2026-02-22 10:05:46"
+    },
+    {
+        "role": "user",
+        "content": "I am feeling very lonely. There is no one for me.",
+        "timestamp": "2026-02-22 10:05:49"
+    },
+    {
+        "role": "user",
+        "content": "I am feeling very lonely. There is no one for me.",
+        "timestamp": "2026-02-22 10:05:50"
+    },
+    {
+        "role": "user",
+        "content": "I am feeling very lonely. There is no one for me.",
+        "timestamp": "2026-02-22 10:05:52"
+    },
+    {
+        "role": "user",
+        "content": "I am feeling very lonely. There is no one for me.",
+        "timestamp": "2026-02-22 10:05:53"
+    },
+    {
+        "role": "user",
+        "content": "I am feeling very lonely. There is no one for me.",
+        "timestamp": "2026-02-22 10:05:55"
+    },
+    {
+        "role": "user",
+        "content": "I am feeling very lonely. There is no one for me.",
+        "timestamp": "2026-02-22 10:05:59"
+    },
+    {
+        "role": "user",
+        "content": "I am feeling very lonely. There is no one for me.",
+        "timestamp": "2026-02-22 10:06:01"
+    },
+    {
+        "role": "user",
+        "content": "I am feeling very lonely. There is no one for me.",
+        "timestamp": "2026-02-22 10:06:03"
+    },
+    {
+        "role": "user",
+        "content": "I am feeling very lonely. There is no one for me.",
+        "timestamp": "2026-02-22 10:06:05"
+    },
+    {
+        "role": "user",
+        "content": "I am feeling very lonely. There is no one for me.",
+        "timestamp": "2026-02-22 10:06:07"
+    },
+    {
+        "role": "user",
+        "content": "I am feeling very lonely. There is no one for me.",
+        "timestamp": "2026-02-22 10:06:09"
+    },
+    {
+        "role": "user",
+        "content": "I am feeling very lonely. There is no one for me.",
+        "timestamp": "2026-02-22 10:06:11"
+    },
+    {
+        "role": "user",
+        "content": "I am feeling very lonely. There is no one for me.",
+        "timestamp": "2026-02-22 10:06:14"
+    },
+    {
+        "role": "user",
+        "content": "I am feeling very lonely. There is no one for me.",
+        "timestamp": "2026-02-22 10:06:16"
+    },
+    {
+        "role": "user",
+        "content": "I am feeling very lonely. There is no one for me.",
+        "timestamp": "2026-02-22 10:06:17"
+    },
+    {
+        "role": "user",
+        "content": "I am feeling very lonely. There is no one for me.",
+        "timestamp": "2026-02-22 10:06:19"
+    },
+    {
+        "role": "user",
+        "content": "I am feeling very lonely. There is no one for me.",
+        "timestamp": "2026-02-22 10:06:21"
+    },
+    {
+        "role": "user",
+        "content": "I am feeling very lonely. There is no one for me.",
+        "timestamp": "2026-02-22 10:06:23"
+    },
+    {
+        "role": "user",
+        "content": "I am feeling very lonely. There is no one for me.",
+        "timestamp": "2026-02-22 10:06:24"
+    },
+    {
+        "role": "user",
+        "content": "I am very lonely. I have no one. I feel like I should die.",
+        "timestamp": "2026-02-22 10:23:52"
+    },
+    {
+        "role": "user",
+        "content": "AUDIO_FILE:temp_audio\\user_input_20260222_103200.wav",
+        "timestamp": "2026-02-22 10:32:00"
+    },
+    {
+        "role": "assistant",
+        "content": "**Translation:** My name is <PERSON>. I want to die. I don't want to live. I am completely useless.",
+        "timestamp": "2026-02-22 10:32:01"
+    },
+    {
+        "role": "user",
+        "content": "AUDIO_FILE:temp_audio\\user_input_20260222_103327.wav",
+        "timestamp": "2026-02-22 10:33:27"
+    },
+    {
+        "role": "assistant",
+        "content": "**Translation:** I am not able to do anything in life.",
+        "timestamp": "2026-02-22 10:33:28"
+    },
+    {
+        "role": "user",
+        "content": "AUDIO_FILE:temp_audio\\user_input_20260222_104422.wav",
+        "timestamp": "2026-02-22 10:44:22"
+    },
+    {
+        "role": "assistant",
+        "content": "**(Detected Language: hi-IN)**\n\n**Translation:** I will die, brother, there is nothing in life. I am useless, you scoundrel.",
+        "timestamp": "2026-02-22 10:44:23",
+        "language_code": "hi-IN"
+    }
+]

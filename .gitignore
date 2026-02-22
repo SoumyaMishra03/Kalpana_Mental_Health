@@ -14,3 +14,4 @@ venv/
 temp_audio/
 .env
 env.example
+backend/agents/__pycache__/

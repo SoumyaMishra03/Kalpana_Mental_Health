@@ -1,5 +1,12 @@
 /frontend
 /backend/app.py
 /backend/main.py
-/backend/__pycache_/
+/backend/__pycache__/
 /backend/session_logs/
+backend/database/__pycache__/
+backend/database/__init__.py
+backend/Datasets/
+backend/utils/__pycache__/
+backend/venv/
+/venv/
+backend/agents/__pycache__/

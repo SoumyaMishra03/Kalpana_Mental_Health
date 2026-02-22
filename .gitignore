@@ -1,0 +1,5 @@
+/frontend
+/backend/app.py
+/backend/main.py
+/backend/__pycache_/
+/backend/session_logs/
